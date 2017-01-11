@@ -1,5 +1,5 @@
 <!--- Provide a general summary of your changes in the Title above -->
-
+<!--- Pull request title must be in imperative, present tense (e.g. "add", "fix", "change"). -->
 ## Description
 <!--- Describe your changes in detail -->
 
@@ -16,6 +16,19 @@
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include details of your testing environment, and the tests you ran to -->
 <!--- see how your change affects other areas of the code, etc. -->
+<!--- Type verifications steps like so: 
+/to verify/i
+/verification steps/i
+/verification instructions/i
+/to test/i
+/testing steps/i
+/testing instructions/i
+/to review/i
+/review steps/i
+/review instructions/i
+or just say
+No verification steps
+-->
 
 ## Screenshots (if appropriate):
 
