@@ -1,0 +1,21 @@
+﻿@model IEnumerable<InstaSharp.Models.Media>
+
+@{
+    ViewBag.Title = "MyFeed";
+}
+
+<div class="container">
+
+    <h2>My Feed</h2>
+
+    @foreach (var item in Model)
+    {
+        <div>
+            <img src="@item.Images.StandardResolution.Url" />
+            @item.Comments
+            @item.Likes
+            @item.Location
+            @item.Tags
+        </div>
+}
+</div>
