@@ -1,3 +1,3 @@
 exclude_paths:
-- "TestInstasharp/Scripts/"
-- ""
+- "TestInstasharp/Scripts/**"
+- "TestInstasharp/Content/**"
